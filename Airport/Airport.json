@@ -1,0 +1,30 @@
+ {
+  "name": "Jay Chou的自用机场图标",
+  "description": "机场图标",
+  "icons": [
+	{"name":"NaiX", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/NaiX.png"}, 
+	{"name":"Kuromis", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/Kuromis.png"}, 
+	{"name":"AMY", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/AMY.png"},  
+	{"name":"Flowercloud", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/Flowercloud.png"},
+	{"name":"Ytoo", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/Ytoo.png"}, 
+	{"name":"IMM", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/IMM.png"},   
+	{"name":"Ayanami", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/Ayanami.png"}, 
+	{"name":"MESL", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/MESL.png"},   
+	{"name":"Tag", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/Tag.png"},
+	{"name":"CTC", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/CTC.png"},
+	{"name":"BYG", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/byg.png"},
+	{"name":"COO", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/COO.png"}, 
+	{"name":"Magic", "url": "https://raw.githubusercontent.com/huimeng12138/Airport/main/Magic.png"}, 
+	{"name":"NaiU", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/NaiU.png"}, 
+	{"name":"NaiU", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/NaiU1.png"},
+	{"name":"NaiU", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/NaiU2.png"}, 
+  	{"name":"KAKO", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/KAKO.png"},
+	{"name":"XSUS", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/XSUS.png"},   
+	{"name":"Sifangcai", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/Sifangcai.png"}, 
+	{"name":"FacMata", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/FacMata.png"},  
+	{"name":"VAE", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/VAE.png"},  
+	{"name":"XFLTD", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/XFLTD.png"},  
+	{"name":"eggcloud", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/eggcloud.png"},   
+	{"name":"To2", "url":"https://raw.githubusercontent.com/huimeng12138/Airport/main/To2.png"}  
+  ]
+}
